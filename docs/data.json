@@ -1,0 +1,23 @@
+{
+    "competencies": [
+        "HTML",
+        "CSS", 
+        "Spring Boot", 
+        "Spring Security", 
+        "Thymeleaf", 
+        "GitHub", 
+        "Git Bash", 
+        "MySQL"
+    ],
+
+    "programmingLangues": [
+        {
+            "language": "Java", 
+            "proficiency": "Intermediate"
+        },
+        {
+            "language": "JavaScript", 
+            "proficiency": "Novice"
+        }
+    ]
+}
