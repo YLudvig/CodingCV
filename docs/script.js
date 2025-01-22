@@ -2,7 +2,7 @@ console.log('Hej från JS');
 
 async function fetchCV() {
     try {
-        const url = 'https://yludvig.github.io/CodingCV/';
+        const url = 'https://yludvig.github.io/CodingCV/data.json';
 
 
         const competencies = await fetch(url); 
